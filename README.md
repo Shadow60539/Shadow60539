@@ -1,9 +1,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Sanjeev Madhav</h1>
 <h3 align="center">..do= "Flutter Developer"</h3>
 
-- <img src="https://media.giphy.com/media/L1KpkdbH8aEkXow8eV/giphy.gif" width="25px" height="25px"> I’m currently working on **Precisely**
-
-- <img src="https://media.giphy.com/media/kgHjC61uv29Fj4NMz1/giphy.gif" width="25px" height="25px"> I’m currently learning **Django**
+- <img src="https://media.giphy.com/media/L1KpkdbH8aEkXow8eV/giphy.gif" width="25px" height="25px"> I’m currently practicing **DSA**
 
 - <img src="https://media.giphy.com/media/cjzVpCjVvXgxYGzRGS/giphy.gif" width="25px" height="25px"> I’m looking for help with [Data Management App](https://github.com/Shadow60539/data_app)
 
