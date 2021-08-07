@@ -4,6 +4,8 @@
 
 - <img src="https://media.giphy.com/media/L1KpkdbH8aEkXow8eV/giphy.gif" width="25px" height="25px"> I’m currently practicing **DSA**
 
+<img align="right" width=100px height=100px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+
 - <img src="https://media.giphy.com/media/cjzVpCjVvXgxYGzRGS/giphy.gif" width="25px" height="25px"> I’m looking for help with [Data Management App](https://github.com/Shadow60539/data_app)
 
 - <img src="https://media.giphy.com/media/26BRCAa7zyWHTWOyY/giphy.gif" width="25px" height="25px"> All of my projects are available at [https://sanjeevmadhav.com](https://sanjeevmadhav.com)
