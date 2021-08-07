@@ -1,6 +1,7 @@
 
 ![cover](images/bio.png)
 
+
 - <img src="https://media.giphy.com/media/L1KpkdbH8aEkXow8eV/giphy.gif" width="25px" height="25px"> I’m currently practicing **DSA**
 
 <img align="right" width=100px height=100px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
@@ -19,6 +20,14 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=Shadow60539&count_private=true&show_icons=true&theme=tokyonight">
 
+<br>
+<h3>
+<a href="https://play.google.com/store/apps/details?id=com.sanjeev.penguin_chat_game"><img src="images/playstore.png" height=20></a>
+Playstore:</h3>
+<!-- <br> -->
+ <!-- Club Penguin Game -->
+<!-- <br> -->
+<a href="https://play.google.com/store/apps/details?id=com.sanjeev.penguin_chat_game"><img src="images/penguin_chat_demo.gif" height=200></a>
 <br>
 <h3 align="left">👨‍💻 Languages and Tools:</h3>
 <br>
