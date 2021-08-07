@@ -4,8 +4,6 @@
 
 - <img src="https://media.giphy.com/media/L1KpkdbH8aEkXow8eV/giphy.gif" width="25px" height="25px"> I’m currently practicing **DSA**
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Shadow60539&count_private=true&show_icons=true&theme=tokyonight">
-
 - <img src="https://media.giphy.com/media/cjzVpCjVvXgxYGzRGS/giphy.gif" width="25px" height="25px"> I’m looking for help with [Data Management App](https://github.com/Shadow60539/data_app)
 
 - <img src="https://media.giphy.com/media/26BRCAa7zyWHTWOyY/giphy.gif" width="25px" height="25px"> All of my projects are available at [https://sanjeevmadhav.com](https://sanjeevmadhav.com)
@@ -17,6 +15,8 @@
 - <img src="https://media.giphy.com/media/3oKIP9cJEOO9ljKoCc/giphy.gif" width="25px" height="25px"> My pub.dev [packages](https://pub.dev/publishers/sanjeevmadhav.com/packages) 
 
 <br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Shadow60539&count_private=true&show_icons=true&theme=tokyonight">
 
 <br>
 <h3 align="left">👨‍💻 Languages and Tools:</h3>
