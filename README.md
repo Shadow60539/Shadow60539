@@ -23,8 +23,8 @@
 <br>
 <h3>🎮 Playstore:</h3>
 <!-- <br> -->
- > Multiplayer Online Game built using Flutter and Flame engine
-<!-- <br> -->
+ Multiplayer Online Game built using Flutter and Flame engine
+<br>
 <a href="https://play.google.com/store/apps/details?id=com.sanjeev.penguin_chat_game"><img src="images/penguin_chat_demo.gif" height=200></a>
 <br>
 <h3 align="left">👨‍💻 Languages and Tools:</h3>
