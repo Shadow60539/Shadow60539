@@ -15,8 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sanjeev-madhav" target="blank"><img src="https://media.giphy.com/media/Vwfo3gxxAwA1kyI2Vs/giphy.gif" width="50px" height="50px"></a>&nbsp;
-<a href="https://instagram.com/_im_sanjeev" target="blank"><img src="https://media.giphy.com/media/WyZy1cltG36Y04OCLG/giphy.gif" width="50px" height="50px"></a>
+<a href="https://linkedin.com/in/sanjeev-madhav" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;
+<a href="https://instagram.com/_im_sanjeev" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
