@@ -21,11 +21,9 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Shadow60539&count_private=true&show_icons=true&theme=tokyonight">
 
 <br>
-<h3>
-<a href="https://play.google.com/store/apps/details?id=com.sanjeev.penguin_chat_game"><img src="images/playstore.png" height=20></a>
-Playstore:</h3>
+<h3>🎮 Playstore:</h3>
 <!-- <br> -->
- <!-- Club Penguin Game -->
+ > Multiplayer Online Game built using Flutter and Flame engine
 <!-- <br> -->
 <a href="https://play.google.com/store/apps/details?id=com.sanjeev.penguin_chat_game"><img src="images/penguin_chat_demo.gif" height=200></a>
 <br>
