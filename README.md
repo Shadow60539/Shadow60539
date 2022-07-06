@@ -20,22 +20,19 @@
 <h3>🎮 Playstore:</h3>
 <br>
   <a href="https://play.google.com/store/apps/details?id=com.sanjeev.penguin_chat_game">Multiplayer Online Game</a> | Flutter | Flame engine
+<br><br>
+
+https://user-images.githubusercontent.com/59445273/177510098-a554f72b-43fb-4e0b-afe0-a333ffead5fb.mp4
+
 <br>
-<br>
-<video width="240" height="240" controls autoplay>
-  <source src="assets/penguin_chat_demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-<br>
-<br>
+
   <a href="https://play.google.com/store/apps/details?id=com.sanjeev.flutter_encrypto">File Encryption App</a> | Flutter
+  <br><br>
+
+https://user-images.githubusercontent.com/59445273/177509236-90a8d859-728c-45eb-9827-031485ca5be8.mp4
+
 <br>
-<br>
-<video width="240" height="240" controls autoplay>
-  <source src="assets/encrypto_demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-<br>
+
 <h3 align="left">👨‍💻 Languages and Tools:</h3>
 <br>
 <table>
