@@ -1,12 +1,8 @@
 
-![cover](images/bio.png)
+![cover](assets/cover.png)
 
 
-- <img src="https://media.giphy.com/media/L1KpkdbH8aEkXow8eV/giphy.gif" width="25px" height="25px"> I’m currently practicing **DSA**
-
-<img align="right" width=100px height=100px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-
-- <img src="https://media.giphy.com/media/cjzVpCjVvXgxYGzRGS/giphy.gif" width="25px" height="25px"> I’m looking for help with [Data Management App](https://github.com/Shadow60539/data_app)
+- <img src="https://media.giphy.com/media/L1KpkdbH8aEkXow8eV/giphy.gif" width="25px" height="25px"> I’m currently learning [Jetpack Compose](https://developer.android.com/jetpack/compose)
 
 - <img src="https://media.giphy.com/media/26BRCAa7zyWHTWOyY/giphy.gif" width="25px" height="25px"> All of my projects are available at [https://sanjeevmadhav.com](https://sanjeevmadhav.com)
 
@@ -23,10 +19,22 @@
 <br>
 <h3>🎮 Playstore:</h3>
 <br>
- Multiplayer Online Game built using Flutter and Flame engine
+  <a href="https://play.google.com/store/apps/details?id=com.sanjeev.penguin_chat_game">Multiplayer Online Game</a> | Flutter | Flame engine
 <br>
 <br>
-<a href="https://play.google.com/store/apps/details?id=com.sanjeev.penguin_chat_game"><img src="images/penguin_chat_demo.gif" height=200></a>
+<video width="240" height="240" controls autoplay>
+  <source src="assets/penguin_chat_demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+<br>
+<br>
+  <a href="https://play.google.com/store/apps/details?id=com.sanjeev.flutter_encrypto">File Encryption App</a> | Flutter
+<br>
+<br>
+<video width="240" height="240" controls autoplay>
+  <source src="assets/encrypto_demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 <br>
 <h3 align="left">👨‍💻 Languages and Tools:</h3>
 <br>
@@ -36,15 +44,12 @@
             <td><a href="#"><img alt="Flutter" title="Flutter" height="28px"
                         src="https://img.icons8.com/color/48/000000/flutter.png" /></a>
             </td>
-            <td><a href="#"><img alt="Dart" title="Dart" height="28px"
-                        src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" /></a>
+            <td><a href="#"><img alt="Jetpack Compose" title="Dart" height="28px"
+                        src="https://tabris.com/wp-content/uploads/2021/06/jetpack-compose-icon_RGB.png" /></a>
           </td>
             <td><a href="#"><img alt="Firebase" title="Firebase" height="28px"
                         src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" /></a>
           </td>
-            <td><a href="#"><img alt="Python" title="Python" height="28px"
-                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /></a>
-            </td>
         </tr>
         <tr>
           <td><a href="#"><img alt="AWS" title="AWS" height="28px"
@@ -54,8 +59,6 @@
                         src="https://i.imgur.com/Fs1Oece.png" /></a></td>
             <td><a href="#"><img alt="MongoDB" title="MongoDB" height="35px"
                         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" /></a></td>
-            <td><a href="#"><img alt="Postman" title="Postman" height="28px"
-                        src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" /></a></td>
         </tr>
     </tbody>
 </table>
