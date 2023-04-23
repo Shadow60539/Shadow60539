@@ -4,8 +4,6 @@
 
 - <img src="https://media.giphy.com/media/L1KpkdbH8aEkXow8eV/giphy.gif" width="25px" height="25px"> I’m currently learning [Jetpack Compose](https://developer.android.com/jetpack/compose)
 
-- <img src="https://media.giphy.com/media/26BRCAa7zyWHTWOyY/giphy.gif" width="25px" height="25px"> All of my projects are available at [https://sanjeevmadhav.com](https://sanjeevmadhav.com)
-
 - <img src="https://media.giphy.com/media/h5RZZK2LkhoyhGzb8Z/giphy.gif" width="25px" height="25px"> Ask me about **Flutter**
 
 - <img src="https://media.giphy.com/media/XyDkWE5lRElx73hgwg/giphy.gif" width="25px" height="25px"> How to reach me **sanjeevmadhav03@gmail.com**
